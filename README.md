@@ -1,2 +1,2 @@
-# kezab
-Kezab website
+# KEZAB
+Kezab's Website
