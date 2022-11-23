@@ -1,6 +1,8 @@
-.body {
-    background-color: #333;
+body {
+    background-color: #222;
 }
-.h1 {
-    color: red;
+
+.container {
+  color: white;
+  text-align: center;
 }
